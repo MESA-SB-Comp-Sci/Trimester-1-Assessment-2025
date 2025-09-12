@@ -23,6 +23,7 @@ Hey team! Trimester 1 is coming to an end and we have learned a lot! Like any ot
 ## Project Instructions
 Given the following diagram of a folder structure write the commands needed to replicate it. You may click on the following hints if you get stuck!
 
+![Diagram for projwct portion, shows folders for the first 3 floors of MESA SB](tri-1-assessment-diagram.png)
 <details>
   <summary> 
     Hint #1
