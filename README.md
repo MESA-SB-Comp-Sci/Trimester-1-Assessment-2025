@@ -52,7 +52,7 @@ Given the following diagram of a folder structure write the commands needed to r
   
   ![Example of nested folder, there is a folder within another folder](imgs/nested-folder-example.png)
   
-  In this example `Folder 1` is nested within Folder A.
+  In this example `Folder A` is nested within the `Main` folder.
   
 </details>
 
