@@ -23,7 +23,7 @@ Hey team! Trimester 1 is coming to an end and we have learned a lot! Like any ot
 ## Project Instructions
 Given the following diagram of a folder structure write the commands needed to replicate it. You may click on the following hints if you get stuck!
 
-![Diagram for projwct portion, shows folders for the first 3 floors of MESA SB](tri-1-assessment-diagram.png)
+![Diagram for projwct portion, shows folders for the first 3 floors of MESA SB](imgs/tri-1-assessment-diagram.png)
 <details>
   <summary> 
     Hint #1
@@ -50,9 +50,7 @@ Given the following diagram of a folder structure write the commands needed to r
   
   Example of nested folder: 
   
-  Folder A
-  
-  |--> Folder 1
+  ![Example of nested folder, there is a folder within another folder](imgs/nested-folder-example.png)
   
   In this example `Folder 1` is nested within Folder A.
   
