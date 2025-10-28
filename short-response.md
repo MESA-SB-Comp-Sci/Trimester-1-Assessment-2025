@@ -1,4 +1,4 @@
-## Short Response Questions
+# Short Response Questions
 
 Question #1: 
 
@@ -34,29 +34,12 @@ Answer #4:
 ---
 
 Question #5: 
+Why do we use the command `git pull`?
 
-The command line is meant to make tasks easier however Ms.Rendon has been doing the following to create folders: 
-```cli
-mkdir students
-mkdir content_work
-mkdir classes
-cd content_work
-mkdir assessments
-mkdir classwork
-mkdir print_outs
-cd ../
-cd classes
-mkdir pd_1
-mkdir pd_3
-mkdir pd_4
-mkdir pd_5
-mkdir pd_6
-```
-What commands should she be using to make the previous code more efficient?
 
 <details>
-  <summary>Bonus</summary>
-  Can you make the same directory she made but in only 5 steps?!
+  <summary>Hint</summary>
+  What does git pull do that is very important when collaborating?
 </details>
 
 
