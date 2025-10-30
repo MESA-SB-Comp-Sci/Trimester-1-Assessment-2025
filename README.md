@@ -3,11 +3,12 @@
 Hey team! Trimester 1 is coming to an end and we have learned a lot! Like any other assessment, you may use any of the resources we have provided and your notebook, however do not lean on your neighbor. You all are very capable of completing this assessment! 
 
 ## Steps to help get started: 
-1. Create your own repository from this template
-2. Open your github codebase
-3. Create a branch for short response answers
-4. Answer short response questions in the `short-response.md` file
-5. Write the commands for the folder structure under the diagram using a markdown code block
+1. Open your github codebase
+2. Create a branch for short response answers
+3. Answer short response questions in the `short-response.md` file
+4. Save your work and merge it into main
+5. Do steps 2-4 for the project portion and problem-solving portion
+
 
 ## Criteria for success
 - [ ] There is a branch created
